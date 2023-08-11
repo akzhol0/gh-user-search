@@ -1,0 +1,10 @@
+.input {
+    width: 400px;
+    height: 60px;
+    border: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    font-size: 20px;
+    padding: 0 0 0 20px;
+    font-family: 'Poppins', sans-serif;
+}
