@@ -6,7 +6,7 @@ import UserPage from "./pages/UserPage";
 const AppRouter = () => {
   return (
     <Routes>
-      <Route path="/" element={<MainPage />}></Route>
+      <Route exact path="/" element={<MainPage />}></Route>
       <Route path="/user/:name" element={<UserPage />}></Route>
     </Routes>
   );
