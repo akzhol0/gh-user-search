@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gh-user-search/static/css/main.32cf0579.css",
+    "main.js": "/gh-user-search/static/js/main.840627b9.js",
+    "index.html": "/gh-user-search/index.html",
+    "main.32cf0579.css.map": "/gh-user-search/static/css/main.32cf0579.css.map",
+    "main.840627b9.js.map": "/gh-user-search/static/js/main.840627b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32cf0579.css",
+    "static/js/main.840627b9.js"
+  ]
+}
